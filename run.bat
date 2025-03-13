@@ -1,0 +1,1 @@
+.venv\Scripts\python min_sys.py
